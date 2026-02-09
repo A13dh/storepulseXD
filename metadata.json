@@ -1,0 +1,8 @@
+{
+  "name": "StorePulse",
+  "description": "A comprehensive no-code e-commerce affiliate SaaS platform tailored for the Tunisian market, featuring AI-powered store creation, advanced analytics, and a robust referral network.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
